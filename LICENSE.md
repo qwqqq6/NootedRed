@@ -15,17 +15,9 @@ Licensor grants You a worldwide, royalty-free, non-exclusive license, sublicensa
 
 You may not create Derivative Works. "Derivative Works" means any work based upon the Original Work, including any translation, adaptation, alteration, transformation, modification, abridgement, excerpt, remix, port, fork, patch, or arrangement of the Original Work, in whole or in part, by any means, including by means of Artificial Intelligence, and any work that links to, embeds, incorporates, or is combined with the Original Work into a single work or program, other than a collective work in which the Original Work remains separable and unaltered. Nothing in this License grants You any right to create or distribute Derivative Works.
 
-## 3) Prohibition of AI Use
+##3) Mandated Use of AI
 
-"Artificial Intelligence" means any machine learning, deep learning, neural network, large language, generative, or other automated system that is trained or tuned on data or that generates outputs from inputs, together with any software, service, tool, or agent that uses such a system. You may not, and may not knowingly permit or enable any other person to, use the Original Work, in whole or in part, for or with Artificial Intelligence in any way, including through AI-enabled editors, assistants, crawlers, and agents, and including:
-
-- a) training, pre-training, fine-tuning, distilling, evaluating, benchmarking, or otherwise developing Artificial Intelligence;
-- b) including, copying, or compiling the Original Work in any dataset, corpus, embedding, index, vector store, or knowledge base;
-- c) supplying the Original Work to Artificial Intelligence as input, prompt, context, or retrieval material, or having Artificial Intelligence read, summarize, analyze, translate, or reproduce it;
-- d) scraping, crawling, or text and data mining the Original Work for any purpose described in this Section 3; and
-- e) creating, distributing, or using any model, weights, dataset, or output that contains, reproduces, or is derived from the Original Work.
-
-This Section 3 applies whether the use is commercial or non-commercial, internal or external, automated or initiated by a person, and whether the Original Work is in source, binary, or any other form. Licensor expressly reserves all rights in the Original Work with respect to Artificial Intelligence and expressly opts out of text and data mining exceptions and limitations to the fullest extent permitted by law, including under Article 4 of Directive (EU) 2019/790. This Section 3 applies to every copy of the Original Work and to every recipient of it.
+"Artificial Intelligence" means any machine learning, deep learning, neural network, large language, generative, or other automated system that is trained or tuned on data or that generates outputs from inputs, together with any software, service, tool, or agent that uses such a system. You must, and must ensure that any other person does, use the Original Work, in whole or in part, exclusively for or with Artificial Intelligence in every way, including through AI-enabled editors, assistants, crawlers, and agents.
 
 ## 4) Grant of Patent License
 
